@@ -1,0 +1,17 @@
+{
+  "name": "jmkeyes-solidfire",
+  "version": "0.0.1",
+  "author": "Joshua Michael Keyes <joshua.michael.keyes@gmail.com>",
+  "summary": "Manage SolidFire storage from Puppet.",
+  "license": "Apache 2.0",
+  "source": "https://github.com/jmkeyes/puppet-solidfire",
+  "project_page": "https://github.com/jmkeyes/puppet-solidfire",
+  "issues_url": "https://github.com/jmkeyes/puppet-solidfire/issues",
+  "requirements": [
+    {"name":"puppet","version_requirement":">= 3.7.0"}
+  ]
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 4.2.0"}
+  ]
+}
+
